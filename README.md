@@ -26,7 +26,7 @@ Voici à quoi devrait ressembler la page d'accueil
 
 Suivez cette vidéo pour découvrir davantage
 
-[Regardez la video](WWFame Demo.mp4)
+[Regardez la video](./WWFame%20Demo.mp4)
 
 ---
 
