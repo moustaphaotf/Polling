@@ -26,10 +26,7 @@ Voici à quoi devrait ressembler la page d'accueil
 
 Suivez cette vidéo pour découvrir davantage
 
-<video controls>
-  <source src="./WWFame Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Regardez la video](WWFame Demo.mp4)
 
 ---
 
